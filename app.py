@@ -2,6 +2,7 @@
 
 from flask import Flask, request, jsonify
 from flask_sqlalchemy import SQLAlchemy
+import os
 
 app = Flask(__name__)
 
@@ -30,13 +31,31 @@ class Machine(db.Model):
 with app.app_context():
     db.create_all()
 
+# --- AREAS Endpoint ---
+@app.route('/areas', methods=['GET', 'POST'])
+def manage_areas():
+    if request.method == 'POST':
+        data = request.get_json()
+        if not data or "area_name" not in data:
+            return jsonify({"error": "Missing area_name field"}), 400
+
+        new_area = Area(area_name=data["area_name"])
+        db.session.add(new_area)
+        db.session.commit()
+        return jsonify({"message": "Area added successfully!", "area_id": new_area.area_id}), 201
+
+    areas = Area.query.all()
+    areas_list = [{"area_id": area.area_id, "area_name": area.area_name} for area in areas]
+    return jsonify({"areas": areas_list})
 
 # --- MACHINES Endpoints ---
 @app.route('/areas/<int:area_id>/machines', methods=['GET', 'POST'])
 def manage_machines(area_id):
     if request.method == 'POST':
-        # Add a new machine to the area
         data = request.get_json()
+        if not data or "machine_name" not in data or "asset_number" not in data:
+            return jsonify({"error": "Missing required fields"}), 400
+
         new_machine = Machine(
             area_id=area_id,
             machine_name=data.get('machine_name'),
@@ -48,7 +67,6 @@ def manage_machines(area_id):
         db.session.commit()
         return jsonify({'message': 'Machine added', 'machine_id': new_machine.machine_id}), 201
 
-    # Get all machines in the area
     machines = Machine.query.filter_by(area_id=area_id).all()
     machines_list = [
         {
@@ -66,7 +84,6 @@ def manage_machine(machine_id):
     machine = Machine.query.get_or_404(machine_id)
 
     if request.method == 'GET':
-        # Get machine details
         return jsonify({
             'machine_id': machine.machine_id,
             'machine_name': machine.machine_name,
@@ -76,7 +93,6 @@ def manage_machine(machine_id):
         })
 
     elif request.method == 'PUT':
-        # Update machine details
         data = request.get_json()
         machine.machine_name = data.get('machine_name', machine.machine_name)
         machine.asset_number = data.get('asset_number', machine.asset_number)
@@ -86,21 +102,11 @@ def manage_machine(machine_id):
         return jsonify({'message': 'Machine updated'})
 
     elif request.method == 'DELETE':
-        # Delete a machine
         db.session.delete(machine)
         db.session.commit()
         return jsonify({'message': 'Machine deleted'})
 
-import os
-
-# --- AREAS Endpoint ---
-@app.route('/areas', methods=['GET'])
-def get_areas():
-    areas = Area.query.all()
-    areas_list = [{"area_id": area.area_id, "area_name": area.area_name} for area in areas]
-    return jsonify({"areas": areas_list})
-
-
+# --- Run Flask App ---
 if __name__ == '__main__':
     port = int(os.environ.get('PORT', 10000))  # Use Render's assigned port or default to 10000
     app.run(host='0.0.0.0', port=port)
