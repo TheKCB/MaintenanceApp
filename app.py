@@ -32,9 +32,6 @@ with app.app_context():
 
 
 # --- MACHINES Endpoints ---
-@app.route('/')
-def home():
-    return "Flask App is Running on Render!"
 @app.route('/areas/<int:area_id>/machines', methods=['GET', 'POST'])
 def manage_machines(area_id):
     if request.method == 'POST':
@@ -96,7 +93,14 @@ def manage_machine(machine_id):
 
 import os
 
+# --- AREAS Endpoint ---
+@app.route('/areas', methods=['GET'])
+def get_areas():
+    areas = Area.query.all()
+    areas_list = [{"area_id": area.area_id, "area_name": area.area_name} for area in areas]
+    return jsonify({"areas": areas_list})
+
+
 if __name__ == '__main__':
     port = int(os.environ.get('PORT', 10000))  # Use Render's assigned port or default to 10000
     app.run(host='0.0.0.0', port=port)
-
