@@ -32,6 +32,9 @@ with app.app_context():
 
 
 # --- MACHINES Endpoints ---
+@app.route('/')
+def home():
+    return "Flask App is Running on Render!"
 @app.route('/areas/<int:area_id>/machines', methods=['GET', 'POST'])
 def manage_machines(area_id):
     if request.method == 'POST':
