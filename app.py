@@ -91,5 +91,9 @@ def manage_machine(machine_id):
         db.session.commit()
         return jsonify({'message': 'Machine deleted'})
 
+import os
+
 if __name__ == '__main__':
-    app.run(debug=True)
+    port = int(os.environ.get('PORT', 10000))  # Use Render's assigned port or default to 10000
+    app.run(host='0.0.0.0', port=port)
+
