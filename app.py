@@ -52,7 +52,6 @@ def manage_areas():
     areas_list = [{"area_id": area.area_id, "area_name": area.area_name} for area in areas]
     return jsonify({"areas": areas_list})
 
-
 # --- MACHINES Endpoints ---
 @app.route('/areas/<int:area_id>/machines', methods=['GET', 'POST'])
 def manage_machines(area_id):
@@ -83,7 +82,6 @@ def manage_machines(area_id):
         } for machine in machines
     ]
     return jsonify({'machines': machines_list})
-
 
 @app.route('/machines/<int:machine_id>', methods=['GET', 'PUT', 'DELETE'])
 def manage_machine(machine_id):
