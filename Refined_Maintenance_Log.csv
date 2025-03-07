@@ -1,0 +1,267 @@
+Date,Machine,Item Description,6-Digit Part Number,Stock Number (DB),Status,Quantity
+3/2/2025,CMS 1,Plow Clamp Cylinder,400531,DB5004680,Replaced,1
+3/2/2025,CMS 1,Tender Down cylinder,400541,DB5000577,Replaced,1
+3/2/2025,CMS 1,Wishbone paddle bushing,-,DB5006476,Needed,2
+3/2/2025,CMS 1,Wing cut lower linkage,-,DB50005328,Needed,4
+3/2/2025,CMS 2,Tender Down cylinder,400541,DB5000577,Replaced,1
+3/2/2025,CMS 2,Wishbone paddle bushing,-,DB5006476,Needed,2
+3/2/2025,CMS 2,Wing cut lower linkage,-,DB50005328,Needed,4
+3/2/2025,CMS 3,Plow clamp cylinder,400531,DB5004680,Replaced,1
+3/2/2025,CMS 3,RH Plow Down cylinder,400554,DB5003019,Replaced,1
+3/2/2025,CMS 3,Wishbone paddle bushing,-,DB5006476,Needed,2
+3/2/2025,CMS 3,Wing cut lower linkage,-,DB50005328,Needed,4
+3/2/2025,CMS 4,Roller clamp cylinder,400531,DB5004680,Replaced,1
+3/2/2025,CMS 4,Plow clamp cylinder,400531,DB5004680,Replaced,1
+3/2/2025,CMS 4,Tender Down cylinder,400541,DB5000577,Replaced,1
+3/2/2025,CMS 4,Wishbone paddle bushing,-,DB5006476,Needed,2
+3/2/2025,CMS 4,Wing cut lower linkage,-,DB5005328,Needed,4
+3/2/2025,BOX MACHINES,fx206 outer bearing on Vacuum drive lower gear,210401,-,Replaced,1
+3/2/2025,BOX MACHINES,vac drive lower gear Inner bearing with snap ring,382385,-,Replaced,1
+2/23/2025,CMS 1,Roller Clamp Cylinder,400531,DB5004680,Needed,1
+2/23/2025,CMS 1,Wishbone paddle bushing,-,DB5006476,Needed,2
+2/23/2025,CMS 1,Wing cut lower linkage,-,DB50005328,Needed,4
+2/23/2025,CMS 2,RH Scapula down,400535,DB500534,Replaced,1
+2/23/2025,CMS 2,Plow clamp cylinder,400531,DB5004680,Replaced,1
+2/23/2025,CMS 2,Tender Down cylinder,400541,DB5000577,Needed,1
+2/23/2025,CMS 2,Wishbone paddle bushing,-,DB5006476,Needed,2
+2/23/2025,CMS 2,Wing cut lower linkage,-,DB50005328,Needed,4
+2/23/2025,CMS 3,LH Scapula down,400535,DB500534,Replaced,1
+2/23/2025,CMS 3,Plow clamp cylinder,400531,DB5004680,Needed,1
+2/23/2025,CMS 3,Tender Down cylinder,400541,DB5000577,Needed,1
+2/23/2025,CMS 3,Wishbone paddle bushing,-,DB5006476,Needed,2
+2/23/2025,CMS 3,Wing cut lower linkage,-,DB50005328,Needed,4
+2/23/2025,CMS 4,LH Wing inner flex shaft,400526,-,Replaced,1
+2/23/2025,CMS 4,LH Tender outer housing,400528,-,Replaced,1
+2/23/2025,CMS 4,LH Tender arbor bearings,211011,-,Replaced,2
+2/23/2025,CMS 4,LH Wing arbor bearings,211011,-,Replaced,2
+2/23/2025,CMS 4,Tender down cylinder,400541,DB5000577,Needed,1
+2/23/2025,CMS 4,Plow clamp cylinder,400531,DB5004680,Needed,1
+2/23/2025,CMS 4,Wishbone paddle bushing,-,DB5006476,Needed,2
+2/23/2025,CMS 4,Wing cut lower linkage,-,DB50005328,Needed,4
+2/23/2025,BOX MACHINES,"Vac drive 7/16"" Rod ends",358386,-,Replaced,2
+2/23/2025,BOX MACHINES,vac drive lower gear Inner bearing with snap ring,382385,-,Replaced,1
+2/16/2025,CMS 1,Neck press cylinder,400531,DB5004680,Replaced,1
+2/16/2025,CMS 1,Roller clamp cylinder,400531,DB5004680,Replaced,1
+2/16/2025,CMS 1,Neck Press Cylinder clevis,401251,DB5002135,Replaced,1
+2/16/2025,CMS 1,Air fittings,383978,-,Replaced,1
+2/16/2025,CMS 1,Skin cut cylinder mount,400783,-,Replaced,1
+2/16/2025,CMS 1,RH Wing Cut Arbor Housing (new design),401293,-,Replaced,1
+2/16/2025,CMS 1,Roller Side Plate LH (Large),-,DB5003248,Replaced,1
+2/16/2025,CMS 1,Roller Side Plate RH (Large),-,DB5003249,Replaced,1
+2/16/2025,CMS 1,Wishbone paddle bushing,-,DB5006476,Needed,2
+2/16/2025,CMS 2,Plow clamp cylinder,400531,DB5004680,Replaced,1
+2/16/2025,CMS 2,Skin cut cylinder mount,400783,-,Replaced,1
+2/16/2025,CMS 2,Wishbone paddle bushing,-,DB5006476,Needed,2
+2/16/2025,CMS 2,"4 bolt 1.25"" Bearing on Salvage Belt Motor",-,-,Needed,1
+2/16/2025,CMS 3,Skin cut cylinder mount,400783,-,Replaced,1
+2/16/2025,CMS 3,Wishbone paddle bushing,-,DB5006476,Needed,2
+2/16/2025,CMS 4,LH Tender Inward cylinder,400536,DB500507,Replaced,1
+2/16/2025,CMS 4,RH Tender Inward cylinder,400536,DB500507,Replaced,1
+2/16/2025,CMS 4,RH Scapula Inner Flex Shaft,400527,-,Replaced,1
+2/16/2025,CMS 4,LH Tender in clevis,401251,DB5002135,Replaced,1
+2/16/2025,CMS 4,Wishbone paddle bushing,-,DB5006476,Needed,2
+2/9/2025,CMS 1,Tender down cylinder,400541,DB5000577,Replaced,1
+2/9/2025,CMS 1,LH Wing Blade Arbor Housing,401294,-,Replaced,1
+2/9/2025,CMS 1,LH Wing inner flex shaft,400526,-,Replaced,1
+2/9/2025,CMS 1,LH & RH Scapula Down - 10mm Cylinder Clevis,401251,DB5002135,Replaced,2
+2/9/2025,CMS 1,Wishbone paddle bushing,-,DB5006476,Needed,2
+2/9/2025,CMS 2,Roller clamp cylinder,400531,DB5004680,Replaced,1
+2/9/2025,CMS 2,Tender down cylinder,400541,DB5000577,Replaced,1
+2/9/2025,CMS 2,LH & RH Scapula Down - 10mm Cylinder Clevis,401251,DB5002135,Replaced,2
+2/9/2025,CMS 2,Wishbone paddle bushing,-,DB5006476,Needed,2
+2/9/2025,CMS 3,Roller clamp cylinder,400531,DB5004680,Replaced,1
+2/9/2025,CMS 3,Plow clamp cylinder,400531,DB5004680,Replaced,1
+2/9/2025,CMS 3,Split clevis on LH Plow Plate,401252,-,Replaced,1
+2/9/2025,CMS 3,Split clevis on RH Plow Plate,401252,-,Replaced,1
+2/9/2025,CMS 3,LH & RH Scapula Down - 10mm Cylinder Clevis,401251,DB5002135,Replaced,2
+2/9/2025,CMS 3,Wishbone paddle bushing,-,DB5006476,Needed,2
+2/9/2025,CMS 4,LH Wing Arbor bearings,211011,-,Replaced,2
+2/9/2025,CMS 4,Split clevis on LH Plow Plate,401252,-,Replaced,1
+2/9/2025,CMS 4,Split clevis on RH Plow Plate,401252,-,Replaced,1
+2/9/2025,CMS 4,LH Wing inner flex shaft,400526,-,Replaced,1
+2/9/2025,CMS 4,LH & RH Scapula Down - 10mm Cylinder Clevis,401251,DB5002135,Replaced,2
+2/9/2025,CMS 4,Wishbone paddle bushing,-,DB5006476,Needed,2
+2/2/2025,CMS 1,LH Tender housing bearings,211011,-,Replaced,2
+2/2/2025,CMS 1,LH Tender in,400536,DB500507,Replaced,1
+2/2/2025,CMS 1,Roller clamp cylinder,400531,DB5004680,Replaced,1
+2/2/2025,CMS 1,Plow clamp cylinder,400531,DB5004680,Replaced,1
+2/2/2025,CMS 1,Air fittings,401188,-,Replaced,6
+2/2/2025,CMS 1,LH Wing inner flex shaft,400526,-,Replaced,1
+2/2/2025,CMS 1,LH & RH Wing cut upper linkage,-,DB5005331,Needed,2
+2/2/2025,CMS 2,LH & RH Wing cut upper linkage,-,DB5005331,Needed,2
+2/2/2025,CMS 3,LH & RH Wing cut upper linkage,-,DB5005331,Needed,2
+2/2/2025,CMS 4,LH Wing inner flex shaft,400526,-,Replaced,1
+2/2/2025,CMS 4,Tender down cylinder,400541,DB5000577,Replaced,1
+2/2/2025,CMS 4,Air fittings,401188,-,Replaced,2
+2/2/2025,CMS 4,LH & RH Wing cut upper linkage,-,DB5005331,Needed,2
+1/26/2025,CMS 1,LH Wing cutter housing bearings,211011,-,Replaced,2
+1/26/2025,CMS 1,RH Wing cutter housing bearings,211011,-,Replaced,2
+1/26/2025,CMS 1,RH Scapula pivot arm,401280,-,Replaced,1
+1/26/2025,CMS 1,LH Scapula pivot arm,401281,-,Replaced,1
+1/26/2025,CMS 1,Missing Flex Shafts for LH Wing & LH Scapula,-,-,Needed,1
+1/26/2025,CMS 2,Plow Clamp Cylinder,400531,DB5004680,Replaced,1
+1/26/2025,CMS 2,LH Wing cutter housing (new design),401294,-,Replaced,1
+1/26/2025,CMS 2,RH Wing cutter housing (new design),401293,-,Replaced,1
+1/26/2025,CMS 2,RH Scapula pivot arm,401280,-,Replaced,1
+1/26/2025,CMS 2,LH Scapula pivot arm,401281,-,Replaced,1
+1/26/2025,CMS 3,RH Wing cutter housing (new design),401293,-,Replaced,1
+1/26/2025,CMS 3,RH Scapula pivot arm,401280,-,Replaced,1
+1/26/2025,CMS 3,LH Scapula pivot arm,401281,-,Replaced,1
+1/26/2025,CMS 4,RH Scapula pivot arm,401280,-,Replaced,1
+1/26/2025,CMS 4,LH Scapula pivot arm,401281,-,Replaced,1
+1/19/2025,CMS 1,Tender down cylinder,400541,DB5000577,Replaced,1
+1/19/2025,CMS 1,Air fittings,401188,-,Replaced,2
+1/19/2025,CMS 2,Plow Clamp Cylinder,400531,DB5004680,Replaced,1
+1/19/2025,CMS 2,Roller Clamp Cylinder,400531,DB5004680,Replaced,1
+1/19/2025,CMS 2,Air fittings,401188,-,Replaced,4
+1/19/2025,CMS 2,LH Wing inner flex shaft,400526,-,Replaced,1
+1/19/2025,CMS 3,RH Plow Down Cylinder,400554,DB5003019,Replaced,1
+1/19/2025,CMS 3,Plow Clamp Cylinder,400531,DB5004680,Replaced,1
+1/19/2025,CMS 3,Air fittings,401188,-,Replaced,4
+1/19/2025,CMS 3,RH Scapula inner flex shaft,400527,-,Replaced,1
+1/19/2025,CMS 3,RH Scapula Flex Shaft Housing,400528,-,Replaced,1
+1/19/2025,CMS 3,RH Wing inner flex shaft,400527,-,Replaced,1
+1/19/2025,CMS 4,Plow Clamp Cylinder,400531,DB5004680,Replaced,1
+1/19/2025,CMS 4,Tender down cylinder,400541,DB5000577,Replaced,1
+1/19/2025,CMS 4,Roller Clamp Cylinder,400531,DB5004680,Replaced,1
+1/19/2025,CMS 4,Air fittings,383978,-,Replaced,4
+1/19/2025,CMS 4,Air fittings,401188,-,Replaced,2
+1/19/2025,CMS 4,LH Wing inner flex shaft,400526,-,Replaced,1
+1/19/2025,ELGI EG-55,Add 3 qts ELGI oil,-,-,Note,1
+1/11/2025,CMS 1,Shoulder Press Cylinder,400540,DB500508,Replaced,1
+1/11/2025,CMS 2,Neck press plate cylinder,-,DB5004680,Replaced,1
+1/11/2025,CMS 4,Tender Down Cylinder,400541,DB5000577,Replaced,1
+1/5/2025,CMS 1,Tender down cylinder,400541,DB5000577,Replaced,1
+1/5/2025,CMS 1,RH Wing housing bearings,211011,-,Replaced,2
+1/5/2025,CMS 1,Air fittings,383978,-,Replaced,2
+1/5/2025,CMS 1,Neck Cut Cylinder Top mount,400783,-,Replaced,1
+1/5/2025,CMS 1,Skin Cutter Blade Linkage,-,DB5003236,Replaced,1
+1/5/2025,CMS 1,Neck Press Plate,-,DB5004442,Replaced,1
+1/5/2025,CMS 1,Skin Cut Blade Pivot Mount,-,DB5004441,Replaced,1
+1/5/2025,CMS 2,LH Plow down cylinder,400554,DB5003019,Replaced,1
+1/5/2025,CMS 2,RH Wing housing bearings,211011,-,Replaced,2
+1/5/2025,CMS 2,Air fittings,383978,-,Replaced,2
+1/5/2025,CMS 2,Neck Cut Cylinder Top mount,400783,-,Replaced,1
+1/5/2025,CMS 2,Neck Cut Cylinder,400536,DB5000507,Replaced,1
+1/5/2025,CMS 2,Skin Cutter Blade Linkage,-,DB5003236,Replaced,1
+1/5/2025,CMS 2,Neck Press Plate,-,DB5004442,Replaced,1
+1/5/2025,CMS 2,Skin Cut Blade Pivot Mount,-,DB5004441,Replaced,1
+1/5/2025,CMS 3,RH Wing housing bearings,211011,-,Replaced,2
+1/5/2025,CMS 3,Neck Cut Cylinder Top mount,400783,-,Replaced,1
+1/5/2025,CMS 3,Skin Cutter Blade Linkage,-,DB5003236,Replaced,1
+1/5/2025,CMS 3,Neck Press Plate,-,DB5004442,Replaced,1
+1/5/2025,CMS 3,Skin Cut Blade Pivot Mount,-,DB5004441,Replaced,1
+1/5/2025,CMS 4,LH Plow down cylinder,400554,DB5003019,Replaced,1
+1/5/2025,CMS 4,RH Wing housing bearings,211011,-,Replaced,2
+1/5/2025,CMS 4,Air fittings,383978,-,Replaced,2
+1/5/2025,CMS 4,Neck Cut Cylinder Top mount,400783,-,Replaced,1
+1/5/2025,CMS 4,Skin Cutter Blade Linkage,-,DB5003236,Replaced,1
+1/5/2025,CMS 4,Neck Press Plate,-,DB5004442,Replaced,1
+1/5/2025,CMS 4,Skin Cut Blade Pivot Mount,-,DB5004441,Replaced,1
+12/29/2024,CMS 1,Replace air fitting on LH Plow down cylinder,-,-,Replaced,1
+12/29/2024,CMS 1,Replace tension cylinder airline,-,-,Replaced,1
+12/22/2024,CMS 1,Tender down cylinder,400541,DB5000577,Replaced,1
+12/22/2024,CMS 1,Neck cut cylinder bottom clevis,401251,DB5002135,Replaced,1
+12/22/2024,CMS 1,Neck cutter top mount,400783,-,Replaced,1
+12/22/2024,CMS 1,LH Wing housing bearings,211011,-,Replaced,2
+12/22/2024,CMS 1,LH Wing inner flex shaft,400526,-,Replaced,1
+12/22/2024,CMS 2,Tender down cylinder,400541,DB5000577,Replaced,1
+12/22/2024,CMS 2,Neck cut cylinder bottom clevis,401251,DB5002135,Replaced,1
+12/22/2024,CMS 2,LH Wing housing bearings,211011,-,Replaced,2
+12/22/2024,CMS 2,LH Wing inner flex shaft,400526,-,Replaced,1
+12/22/2024,CMS 3,Neck cut cylinder,400536,DB5000507,Replaced,1
+12/22/2024,CMS 3,Neck cut cylinder bottom clevis,401251,DB5002135,Replaced,1
+12/22/2024,CMS 3,Neck cut top mount stud,400783,-,Replaced,1
+12/22/2024,CMS 3,LH Wing housing bearings,211011,-,Replaced,2
+12/22/2024,CMS 3,Breast Conveyor Motor,400485,-,Replaced,1
+12/22/2024,CMS 4,Neck cut cylinder,400536,DB5000507,Replaced,1
+12/22/2024,CMS 4,LH Wing housing bearings,211011,-,Replaced,2
+12/22/2024,CMS 4,Neck cut top mount,400783,-,Replaced,1
+12/22/2024,CMS 4,Neck cut cylinder bottom clevis,401251,DB5002135,Replaced,1
+12/15/2024,CMS 1,Tender down cylinder,400541,DB5000577,Replaced,1
+12/15/2024,CMS 1,Air fittings,401188,-,Replaced,2
+12/15/2024,CMS 1,LH Scapula housing bearings,211011,-,Replaced,2
+12/15/2024,CMS 3,Plow clamp cylinder,400531,DB5004680,Replaced,1
+12/15/2024,CMS 3,RH Plow down cylinder,400554,DB5003019,Replaced,1
+12/15/2024,CMS 3,RH Scapula housing bearings,211011,-,Replaced,2
+12/8/2024,CMS 1,Plow clamp cylinder,400531,DB5004680,Replaced,1
+12/8/2024,CMS 1,Roller clamp cylinder,400531,DB5004680,Replaced,1
+12/8/2024,CMS 1,LH Scapula housing bearings,211011,-,Needed,2
+12/8/2024,CMS 2,Plow clamp cylinder,400531,DB5004680,Replaced,1
+12/8/2024,CMS 2,Broken RH Scapula motor mount,-,DB5003223,Needed,1
+12/8/2024,CMS 3,Wishbone plow cylinder,400538,DB500547,Replaced,1
+12/8/2024,CMS 3,Plow clamp cylinder,400531,DB5004680,Needed,1
+12/8/2024,CMS 4,RH Scapula housing bearings,211011,-,Needed,2
+12/1/2024,CMS 1,RH & LH Tender blade housing bearing sets,211011,-,Replaced,4
+12/1/2024,CMS 2,Tender down cylinder,400541,DB5000577,Replaced,1
+12/1/2024,CMS 2,Broken RH Scapula motor mount,-,DB5003233,Needed,1
+12/1/2024,CMS 3,LH Scapula blade housing bearings,211011,-,Replaced,2
+12/1/2024,CMS 3,RH & LH Tender blade housing bearing sets,211011,-,Replaced,4
+12/1/2024,CMS 4,Tender down cylinder,400541,DB5000577,Replaced,1
+12/1/2024,CMS 4,LH Scapula in cylinder,400530,DB500531,Replaced,1
+11/24/2024,CMS 1,Tender down cylinder,400541,DB5000577,Replaced,1
+11/24/2024,CMS 1,6mm 90° PTC air fittings,401188,-,Replaced,2
+11/24/2024,CMS 1,Breast rollers,-,-,Replaced,1
+11/24/2024,CMS 2,Plow clamp cylinder,400531,DB5004680,Replaced,1
+11/24/2024,CMS 2,Breast rollers,-,-,Replaced,1
+11/24/2024,CMS 2,RH Scapula motor mount,-,-,Needed,1
+11/24/2024,CMS 3,RH Plow Down cylinder,400554,DB5003019,Replaced,1
+11/24/2024,CMS 3,Plow clamp cylinder,400531,DB5004680,Replaced,1
+11/24/2024,CMS 3,6mm 90° PTC air fittings,401188,-,Replaced,2
+11/24/2024,CMS 3,LH Wing inner flex shaft,400526,-,Replaced,1
+11/24/2024,CMS 3,LH Wing motor mount,-,DB5003883,Needed,1
+11/24/2024,CMS 4,Tender down cylinder,400541,DB5000577,Replaced,1
+11/24/2024,CMS 4,6mm 90° PTC air fittings,401188,-,Replaced,2
+11/24/2024,CMS 4,Breast rollers,-,-,Replaced,1
+11/17/2024,CMS 1,Neck cutter,400536,DB5000507,Replaced,1
+11/17/2024,CMS 4,Plow Clamp,400531,DB5004680,Replaced,1
+11/17/2024,CMS 4,Roller Clamp,400531,DB5004680,Replaced,1
+11/17/2024,CMS 4,LH Wing motor mount plate,-,DB5003883,Replaced,1
+11/10/2024,CMS 1,RH Wing inner flex shaft,400527,-,Replaced,1
+11/10/2024,CMS 2,Tender down cylinder,400541,DB5000577,Replaced,1
+11/10/2024,CMS 3,Plow clamp cylinder,400531,DB5004680,Replaced,1
+11/10/2024,CMS 4,Tender down cylinder,400541,DB5000577,Replaced,1
+11/10/2024,CMS 4,LH Scapula Inner Flex Shaft,400526,-,Replaced,1
+11/3/2024,CMS 1,Plow down LH cylinder,400554,DB5003019,Replaced,1
+11/3/2024,CMS 1,Tender down cylinder,400541,DB5000577,Replaced,1
+11/3/2024,CMS 2,Change proximity sensor for LH Wing,400548,-,Replaced,1
+11/3/2024,CMS 3,Skin cutter cylinder,400536,DB5000507,Replaced,1
+11/3/2024,CMS 3,RH Wing Inner flex shaft,400527,-,Replaced,1
+11/3/2024,CMS 3,LH Scapula inner flex shaft,400526,-,Replaced,1
+11/3/2024,CMS 3,LH Wing cut motor mount plate,-,DB5003883,Needed,1
+11/3/2024,CMS 4,RH Scapula inner flex shaft,400527,-,Replaced,1
+11/3/2024,CMS 4,Plow clamp cylinder,400531,DB5004680,Replaced,1
+11/3/2024,CMS 4,LH Scapula inner flex shaft,400526,-,Replaced,1
+11/3/2024,CMS 4,LH outer housing for flex shaft,400528,-,Replaced,1
+11/3/2024,CMS 4,LH Wing cut motor mount plate,-,DB5003883,Needed,1
+10/27/2024,CMS 1,Repair leaky fitting on cone chain tension cylinder,-,-,Completed,
+10/27/2024,CMS 2,Plow Down LH Cylinder,400554,DB5003019,Completed,
+10/27/2024,CMS 3,Plow Down RH Cylinder,400554,DB5003019,Completed,
+10/27/2024,CMS 4,Tender Down Cylinder,400541,DB5000577,Completed,
+10/13/2024,CMS 1,Tender Down Cylinder,400541,DB5000577,Completed,
+10/13/2024,CMS 1,Roller Clamp Cylinder,400531,DB5004680,Completed,
+10/13/2024,CMS 1,LH Scapula Down Cylinder,400535,DB5000534,Completed,
+10/13/2024,CMS 2,Repair conduit clamp on breast belt motor,-,-,Completed,
+10/13/2024,CMS 3,LH Tender In Cylinder,400536,DB5000507,Completed,
+10/13/2024,CMS 3,Repair frame belt motor taper lock assembly,-,-,Completed,
+10/13/2024,CMS 4,Roller Clamp Cylinder,400531,DB5004680,Completed,
+10/6/2024,CMS 1,Plow Clamp Cylinder,400531,DB5004680,Completed,
+10/6/2024,CMS 2,Tender Down Cylinder,400541,DB5000577,Completed,
+10/6/2024,CMS 3,Roller Clamp Cylinder,400531,DB5004680,Completed,
+10/6/2024,CMS 3,Plow Clamp Cylinder,400531,DB5004680,Completed,
+10/6/2024,CMS 4,Tender Down Cylinder,400541,DB5000577,Completed,
+10/6/2024,CMS 4,RH Tender In Cylinder,400536,DB5000507,Completed,
+10/6/2024,ELGI EG-55,"Change oil, filters, and separator",-,-,Completed,
+9/22/2024,CMS 1,LH Yellow Stop Button,400570,-,Completed,
+9/22/2024,CMS 3,inner flex shaft LH Tender,400526,-,Completed,
+9/22/2024,CMS 3,Plow Down RH Cylinder,400554,DB5003019,Completed,
+9/22/2024,CMS 4,Wing Cut LH Cylinder,400528,DB5000528,Completed,
+9/22/2024,CMS 4,Tender Cut Down Cylinder,400541,DB5000577,Completed,
+9/22/2024,CMS 4,Neck Skin Cutter Upper Mount,400783,-,Completed,
+9/8/2024,CMS 1,Neck Skin Cutter Upper Mount,400783,-,Completed,
+9/8/2024,CMS 1,Proximity Sensor for Infeed,400551,-,Completed,
+9/8/2024,CMS 1,Tender Down Cylinder,400541,DB5000577,Needed,
+9/8/2024,CMS 2,Neck Skin Cutter Upper Mount,400783,-,Completed,
+9/8/2024,CMS 2,Roller Clamp Cylinder,400531,DB5004680,Completed,
+9/8/2024,CMS 2,Tender Down Cylinder,400541,DB5000577,Needed,
+9/8/2024,CMS 4,Roller Clamp Cylinder,400531,DB5004680,Completed,
